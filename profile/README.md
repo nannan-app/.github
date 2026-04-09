@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://nannan.chat">Website</a> &middot;
+  <a href="https://nannan.app">Website</a> &middot;
   <a href="https://github.com/nannan-app/chat-diary">Source Code</a> &middot;
   <a href="https://github.com/nannan-app/chat-diary/releases">Download</a>
 </p>
